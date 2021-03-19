@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj": {}
+    "C:\\Users\\SteveandNatalie\\Documents\\a_Jim\\Coding\\SOC Workflow\\WK 11\\190321\\w11d5_levelupathon_hackathon-2stevesand2hats\\BackEnd\\BackEnd.csproj": {}
   },
   "projects": {
-    "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj": {
+    "C:\\Users\\SteveandNatalie\\Documents\\a_Jim\\Coding\\SOC Workflow\\WK 11\\190321\\w11d5_levelupathon_hackathon-2stevesand2hats\\BackEnd\\BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\SteveandNatalie\\Documents\\a_Jim\\Coding\\SOC Workflow\\WK 11\\190321\\w11d5_levelupathon_hackathon-2stevesand2hats\\BackEnd\\BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj",
-        "packagesPath": "/Users/georgecollingridge/.nuget/packages/",
-        "outputPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/",
+        "projectPath": "C:\\Users\\SteveandNatalie\\Documents\\a_Jim\\Coding\\SOC Workflow\\WK 11\\190321\\w11d5_levelupathon_hackathon-2stevesand2hats\\BackEnd\\BackEnd.csproj",
+        "packagesPath": "C:\\Users\\SteveandNatalie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SteveandNatalie\\Documents\\a_Jim\\Coding\\SOC Workflow\\WK 11\\190321\\w11d5_levelupathon_hackathon-2stevesand2hats\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/georgecollingridge/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\SteveandNatalie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
