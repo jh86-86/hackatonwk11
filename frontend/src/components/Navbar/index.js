@@ -7,6 +7,7 @@ import HipHop from '../GenrePage/HipHop';
 import ClassicRock from '../GenrePage/ClassicRock/index';
 import { useAuth0 } from "@auth0/auth0-react";
 
+
 function BodyApp({user}){
 
 
@@ -22,22 +23,22 @@ function BodyApp({user}){
 
     <Router>
      <div>
-       <nav>
-         <ul>
+       <nav >
+         <ul class="nav">
            <li>
-             <Link to="/">HomePage</Link>
+             <Link class="item" to="/">HomePage</Link>
            </li>
            <li>
-             <Link to="Reggae">Reggae</Link>
+             <Link class="item" to="Reggae">Reggae</Link>
            </li>
            <li>
-             <Link to="ClassicRock">Classic Rock</Link>
+             <Link class="item" to="ClassicRock">Classic Rock</Link>
            </li>
            <li>
-             <Link to="Pop">Pop</Link>
+             <Link class="item" to="Pop">Pop</Link>
            </li>
            <li>
-             <Link to="HipHop">HipHop</Link>
+             <Link class="item" to="HipHop">HipHop</Link>
            </li>
          </ul>
        </nav>

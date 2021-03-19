@@ -19,9 +19,9 @@ function App() {
 
   return (
     <div className="App">
+      <Profile />
       <LoginButton />
       <LogoutButton />
-      <Profile />
    
      
       
