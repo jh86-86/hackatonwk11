@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.nav{
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  flex-direction: row;
+  list-style-type: none;
+  background-color: black;
+  color: antiquewhite;
+  
+}
+
+.nav li{
+  color: white;
+  padding-left:10px;
+  margin:10px;
+  text-decoration: none;
+}
+
+.item{
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.item:hover {
+  background-color:grey;
+  color: antiquewhite;
+}

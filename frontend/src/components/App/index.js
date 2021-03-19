@@ -14,6 +14,7 @@ import BodyApp from "../Navbar/index";
 function App() {
   return (
     <div className="App">
+      <Profile />
       <LoginButton />
       <LogoutButton />
       <Profile />
