@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 
 
 [ApiController]
-[Route("[controller]")]
+[Route("MusicApp")]
 public class MusicAppController : ControllerBase
 {
     private readonly IRepository<MusicApp> _musicAppRepository;
