@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/BackEnd.csproj": {}
+    "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj": {}
   },
   "projects": {
-    "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/BackEnd.csproj": {
+    "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/BackEnd.csproj",
+        "projectUniqueName": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/BackEnd.csproj",
+        "projectPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/BackEnd.csproj",
         "packagesPath": "/Users/georgecollingridge/.nuget/packages/",
-        "outputPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/obj/",
+        "outputPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/georgecollingridge/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

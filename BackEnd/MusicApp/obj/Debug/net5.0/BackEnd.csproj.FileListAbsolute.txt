@@ -1,0 +1,5 @@
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.csprojAssemblyReference.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.AssemblyInfoInputs.cache
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.AssemblyInfo.cs
+/Users/georgecollingridge/Desktop/SOCproject_folder/Month 3/Week11/w11d5_levelupathon_hackathon-2stevesand2hats/BackEnd/MusicApp/obj/Debug/net5.0/BackEnd.csproj.CoreCompileInputs.cache
